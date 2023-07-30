@@ -4,7 +4,6 @@ import streamlit as st
 import pandas as pd
 from googleapiclient.discovery import build
 import mysql.connector as sql
-from sqlalchemy import create_engine
 import re
 
 # Set up your YouTube Data API key
