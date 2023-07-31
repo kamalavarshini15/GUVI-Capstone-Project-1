@@ -40,18 +40,18 @@ search options, including joining tables to get channel details.
 
 **Displaying the working Model**
 
->> Enter the Channel ID and Video ID 
+**Enter the Channel ID and Video ID**
 ![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/90f81b80-07b3-4a2c-bb59-e107d5957795)
 ![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/83d37074-14b0-436c-8cde-8a49015a0938)
 
->> Channel data, videos data and comments data displayed in the streamlit app
+**Channel data, videos data and comments data displayed in the streamlit app**
 ![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/cdab081e-2999-408e-bc4a-b0b30ee59d05)
 ![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/55de2812-9ec4-4ea1-bc27-c4037f98e263)
 
->> Now data stored in MongoDB is migrated to SQL by clicking the "Store data in SQL DB" button
+**Now data stored in MongoDB is migrated to SQL by clicking the "Store data in SQL DB" button**
 ![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/fdcd4a13-d5aa-4875-8d10-5afbae272f60)
 
->>Now finally the analysis can be performed for the given 10 questions:
+**Now finally the analysis can be performed for the given 10 questions:**
 
 **SQL Query Output need to displayed as table in Streamlit Application:**
 1. What are the names of all the videos and their corresponding channels?
@@ -75,6 +75,21 @@ corresponding channel names?
 
 ![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/69fdda24-11b4-4600-b7b2-2645972abcd7)
 ![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/eb133923-5110-4730-9a80-715da5a3d86a)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Now let's see how Data is stored inside Mongo DB**
+![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/0256d4c4-98e5-4085-a1f8-c4c428b9a92f)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Now let's see how Data is stored inside SQL Database**
+![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/83881e4a-f653-4d25-9346-4e024123e2e9)
+
+------------------------------------------------------**PROJECT-END**---------------------------------------------------------------------------------------------
+
+
+
 
 
 
