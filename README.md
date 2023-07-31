@@ -38,7 +38,50 @@ search options, including joining tables to get channel details.
 
 --------------------------------------------------------------------------------------------------
 
+**Displaying the working Model**
+
+>> Enter the Channel ID and Video ID 
 ![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/90f81b80-07b3-4a2c-bb59-e107d5957795)
+![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/83d37074-14b0-436c-8cde-8a49015a0938)
+
+>> Channel data, videos data and comments data displayed in the streamlit app
+![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/cdab081e-2999-408e-bc4a-b0b30ee59d05)
+![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/55de2812-9ec4-4ea1-bc27-c4037f98e263)
+
+>> Now data stored in MongoDB is migrated to SQL by clicking the "Store data in SQL DB" button
+![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/fdcd4a13-d5aa-4875-8d10-5afbae272f60)
+
+>>Now finally the analysis can be performed for the given 10 questions:
+
+**SQL Query Output need to displayed as table in Streamlit Application:**
+1. What are the names of all the videos and their corresponding channels?
+2. Which channels have the most number of videos, and how many videos do
+they have?
+3. What are the top 10 most viewed videos and their respective channels?
+4. How many comments were made on each video, and what are their
+corresponding video names?
+5. Which videos have the highest number of likes, and what are their
+corresponding channel names?
+6. What is the total number of likes and dislikes for each video, and what are
+their corresponding video names?
+7. What is the total number of views for each channel, and what are their
+corresponding channel names?
+8. What are the names of all the channels that have published videos in the year
+2022?
+9. What is the average duration of all videos in each channel, and what are their
+corresponding channel names?
+10.Which videos have the highest number of comments, and what are their
+corresponding channel names?
+
+![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/69fdda24-11b4-4600-b7b2-2645972abcd7)
+![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/eb133923-5110-4730-9a80-715da5a3d86a)
+
+
+
+
+
+
+
 
 
 
