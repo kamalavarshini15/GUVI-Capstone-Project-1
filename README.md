@@ -30,6 +30,20 @@ search options, including joining tables to get channel details.
 **Approach:**
 
 
+**>**Set up a streamlit application for Analysis of the YOUTUBE Data.
+**>** Set up your Youtube Data API key with the YOUTUBE API DATA to fetch the resources Youtube API provides.
+**>**Store Data in MongoDB data lake, by writing functions for fetching channel, video and comments data and connect to MongoDB server. 
+**>**Then, migrate it to  the SQL Data warehouse, write a query for retrieving the data and do the analysis.
+**>**Finally, Display the data in the streamlit app.
+
+--------------------------------------------------------------------------------------------------
+
+![image](https://github.com/kamalavarshini15/GUVI-Capstone-Project-1/assets/119718578/90f81b80-07b3-4a2c-bb59-e107d5957795)
+
+
+
+
+
 
 
 
